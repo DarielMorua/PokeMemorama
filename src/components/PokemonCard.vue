@@ -7,7 +7,7 @@
       </template>
       <template v-else>
         <img
-          src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
+          src="https://res.cloudinary.com/dbkv7w2jf/image/upload/v1748998620/132_c8kh6z.png"
           alt="Carta oculta"
         />
       </template>
